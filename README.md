@@ -4,4 +4,4 @@
 
   * 🔭 I’m currently working on: [dim](https://github.com/vgarleanu/dim) & [nightfall](https://github.com/vgarleanu/nightfall)
   * 🌱 I’m currently learning about: [libp2p](https://github.com/libp2p/rust-libp2p) & [ipfs](https://github.com/rs-ipfs/rust-ipfs)
-  * 📫 How to reach me: valerian.garleanu@pm.me
+  * 📫 How to reach me: valerian@dusklabs.io
